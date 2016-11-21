@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>XiamiDemo</groupId>
   <artifactId>XiamiDemo</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>XiamiDemo</name>
   <url>http://maven.apache.org</url>
